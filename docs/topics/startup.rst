@@ -52,7 +52,7 @@ This style of configuration might also be appropriate for production scenarios i
 **Test stores**
 
 The ``TestUser`` class models a user, their credentials, and claims in IdentityServer. 
-Use of ``TestUser`` is simiar to the use of the "in-memory" stores in that it is intended for when prototyping, developing, and/or testing.
+Use of ``TestUser`` is similar to the use of the "in-memory" stores in that it is intended for when prototyping, developing, and/or testing.
 The use of ``TestUser`` is not recommended in production.
 
 * ``AddTestUsers``
